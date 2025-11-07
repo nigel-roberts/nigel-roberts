@@ -11,3 +11,5 @@ I help small and mid-sized businesses reduce cyber risk and meet compliance with
 - LinkedIn (company): https://www.linkedin.com/company/nexsecuresolutions  
 - Crunchbase: https://www.crunchbase.com/person/nigel-elijah-roberts  
 - Google Sites bio: https://sites.google.com/view/nigel-roberts-cissp/home
+- About me: https://about.me/nigel_roberts
+
