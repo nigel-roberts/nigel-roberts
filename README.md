@@ -1,4 +1,4 @@
-# Nigel Elijah Roberts, CISSP
+# Nigel Roberts, CISSP
 
 Founder & Principal Consultant at **NexSecure Solutions LLC** (Bowie, MD, USA).  
 I help small and mid-sized businesses reduce cyber risk and meet compliance without enterprise overhead.
