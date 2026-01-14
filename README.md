@@ -7,6 +7,7 @@ Focus: Risk assessments • vCISO • Security policy and program buildout • N
 
 ## Official links
 - Main bio and services: https://nexsecuresolutions.com/nigel-roberts-cissp/
+- Personal Website: https://nigelrobertscissp.wordpress.com/
 - GitHub Pages hub: https://nigel-roberts.github.io/
 - Publications (GitHub Pages): https://nigel-roberts.github.io/papers/
 - Cybersecurity Basics for Small Businesses (PDF): https://nigel-roberts.github.io/papers/lean-security-smb.pdf
