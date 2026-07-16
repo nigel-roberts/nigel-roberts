@@ -1,18 +1,67 @@
 # Nigel Roberts, CISSP
 
-Founder & Principal Consultant at NexSecure Solutions LLC (Bowie, Maryland, USA).  
-I help small and mid-sized businesses reduce cyber risk, improve security posture, and meet compliance requirements without enterprise overhead.
+**Cybersecurity Advisor in Bowie, Maryland | Founder and Principal Consultant at NexSecure Solutions LLC**
 
-Focus: Risk assessments • vCISO • Security policy and program buildout • NIST / CIS / HIPAA / CMMC • Microsoft 365 and identity hardening • Cloud and endpoint security • Vendor risk • Security awareness • Incident readiness
+I help small and mid-sized businesses reduce cyber risk, improve security posture, strengthen Microsoft 365 environments, and prepare for compliance and cyber insurance requirements without unnecessary enterprise overhead.
 
-## Official links
-- Main bio and services: https://nexsecuresolutions.com/nigel-roberts-cissp/
-- Personal Website: https://nigelrobertscissp.wordpress.com/
-- GitHub Pages hub: https://nigel-roberts.github.io/
-- Publications (GitHub Pages): https://nigel-roberts.github.io/papers/
-- Cybersecurity Basics for Small Businesses (PDF): https://nigel-roberts.github.io/papers/lean-security-smb.pdf
-- LinkedIn: https://www.linkedin.com/in/nigel-roberts-cissp/
-- NexSecure on LinkedIn: https://www.linkedin.com/company/nexsecuresolutions
-- Google Sites bio: https://sites.google.com/view/nigel-roberts-cissp/home
-- About.me: https://about.me/nigel_roberts
-- Crunchbase (company): https://www.crunchbase.com/organization/nexsecure-solutions-llc
+My work focuses on practical cybersecurity strategy, vulnerability management, virtual CISO services, security governance, identity protection, endpoint security, vendor risk, incident readiness, and security program development.
+
+## Professional Focus
+
+- Virtual CISO and cybersecurity advisory services
+- Cybersecurity risk assessments
+- Vulnerability management
+- Microsoft 365 and identity hardening
+- Security policy and governance
+- NIST, CIS Controls, HIPAA and CMMC alignment
+- Vendor and third-party risk management
+- Security awareness and phishing readiness
+- Cyber insurance readiness
+- Incident response planning
+
+## Official Websites
+
+- [Nigel Roberts Advisory](https://nigelrobertsadvisory.com/)
+- [Nigel Roberts, CISSP at NexSecure Solutions](https://nexsecuresolutions.com/nigel-roberts-cissp/)
+- [Nigel Roberts Cybersecurity Resource Hub](https://nigel-roberts.github.io/)
+- [Nigel Roberts Cybersecurity Articles on WordPress](https://nigelrobertscissp.wordpress.com/)
+- [Nigel Roberts Professional Biography on Google Sites](https://sites.google.com/view/nigel-roberts-cissp/home)
+
+## Verified Professional Profiles
+
+- [Nigel Roberts, CISSP on LinkedIn](https://www.linkedin.com/in/nigel-roberts-cissp/)
+- [Nigel Roberts Verified Certifications on Credly](https://www.credly.com/users/nigel-roberts.34ef6e7b)
+- [Nigel Roberts on Crunchbase](https://www.crunchbase.com/person/nigel-roberts-cissp)
+- [Nigel Roberts Cybersecurity Articles on Medium](https://medium.com/@nigel-roberts)
+- [Nigel Roberts on About.me](https://about.me/nigel_roberts)
+- [Nigel Roberts Cybersecurity Newsletter on Substack](https://substack.com/@nigelrobertscyber)
+- [Nigel Roberts Speaker Profile on SpeakerHub](https://speakerhub.com/speaker/nigel-roberts)
+- [Nigel Roberts on Wellfound](https://wellfound.com/u/nigel-roberts-6)
+- [Nigel Roberts on Product Hunt](https://www.producthunt.com/@nigelroberts)
+- [Nigel Roberts on Clarity.fm](https://clarity.fm/nigelroberts)
+- [Nigel Roberts on Upwork](https://www.upwork.com/freelancers/~012174f949ede93bc4)
+- [Nigel Roberts on Quora](https://www.quora.com/Nigel-Roberts-172)
+
+## Social and Media Profiles
+
+- [Nigel Roberts on YouTube](https://www.youtube.com/@Nigel_Roberts)
+- [Nigel Roberts on Instagram](https://www.instagram.com/thenigelroberts/)
+- [Nigel Roberts on Threads](https://www.threads.com/@thenigelroberts)
+- [Nigel Roberts on X](https://x.com/NigelERoberts)
+- [Nigel Roberts on Facebook](https://www.facebook.com/nigelroberts.cyber)
+
+## Featured Cybersecurity Resources
+
+- [Nigel Roberts Cybersecurity Publications](https://nigel-roberts.github.io/papers/)
+- [Cybersecurity Basics for Small Businesses](https://nigel-roberts.github.io/papers/lean-security-smb.pdf)
+- [Nigel Roberts GitHub Pages Repository](https://github.com/nigel-roberts/nigel-roberts.github.io)
+
+## NexSecure Solutions
+
+NexSecure Solutions LLC is a Maryland-based cybersecurity advisory and consulting firm serving small businesses, growing organizations, nonprofits, government contractors and SaaS companies.
+
+- [NexSecure Solutions Website](https://nexsecuresolutions.com/)
+- [NexSecure Solutions on LinkedIn](https://www.linkedin.com/company/nexsecuresolutions)
+- [NexSecure Solutions on Crunchbase](https://www.crunchbase.com/organization/nexsecure-solutions-llc)
+- [NexSecure Solutions on YouTube](https://www.youtube.com/@NexSecureSolutions)
+- [NexSecure Solutions on Alignable](https://www.alignable.com/bowie-md/nexsecure-solutions-llc)
