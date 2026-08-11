@@ -56,6 +56,13 @@ My work focuses on practical cybersecurity strategy, vulnerability management, v
 - [Cybersecurity Basics for Small Businesses](https://nigel-roberts.github.io/papers/lean-security-smb.pdf)
 - [Nigel Roberts GitHub Pages Repository](https://github.com/nigel-roberts/nigel-roberts.github.io)
 
+## Practical Cybersecurity Toolkits
+
+- [Nonprofit Cybersecurity Starter Kit](https://github.com/nigel-roberts/nonprofit-cybersecurity-starter-kit) for executive directors, operations leaders, and teams without dedicated IT staff
+- [Microsoft 365 Security Checklist](https://github.com/nigel-roberts/microsoft-365-security-checklist) for small organizations reviewing identity, administrator access, email, sharing, devices, and logging
+- [Cyber Risk Register for Small Businesses and Nonprofits](https://github.com/nigel-roberts/small-business-cyber-risk-register) with a reusable CSV template and practical scoring guide
+- [Incident Response Starter Plan](https://github.com/nigel-roberts/small-org-incident-response-plan) with a response plan, activity log, and emergency contact roster
+
 ## NexSecure Solutions
 
 NexSecure Solutions LLC is a Maryland-based cybersecurity advisory and consulting firm serving small businesses, growing organizations, nonprofits, government contractors and SaaS companies.
