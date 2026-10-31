@@ -2,7 +2,7 @@
 
 **Cybersecurity Advisor | Founder and Principal Consultant at NexSecure Solutions LLC**
 
-Based in Bowie, Maryland, helping businesses and nonprofits across Maryland, Washington, DC, and Virginia, with remote services for clients nationwide.
+Based in Bowie, Md, helping businesses and nonprofits across Maryland, Washington, DC, and Virginia, with remote services for clients nationwide.
 
 I publish practical resources for small businesses and nonprofits working through Microsoft 365 security, cloud access and cybersecurity ownership. My commercial work is delivered through [NexSecure Solutions](https://nexsecuresolutions.com/). My educational writing is collected at [Nigel Roberts Advisory](https://nigelrobertsadvisory.com/).
 
