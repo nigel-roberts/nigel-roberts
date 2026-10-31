@@ -2,7 +2,7 @@
 
 **Cybersecurity Advisor in Bowie, Maryland | Founder and Principal Consultant at NexSecure Solutions LLC**
 
-I help small and mid-sized businesses reduce cyber risk, improve security posture, strengthen Microsoft 365 environments, and prepare for compliance and cyber insurance requirements without unnecessary enterprise overhead.
+I publish practical resources for small businesses and nonprofits working through Microsoft 365 security, cloud access and cybersecurity ownership. My commercial work is delivered through [NexSecure Solutions](https://nexsecuresolutions.com/). My educational writing is collected at [Nigel Roberts Advisory](https://nigelrobertsadvisory.com/).
 
 My work focuses on practical cybersecurity strategy, vulnerability management, virtual CISO services, security governance, identity protection, endpoint security, vendor risk, incident readiness, and security program development.
 
