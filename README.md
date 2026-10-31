@@ -1,6 +1,8 @@
 # Nigel Roberts, CISSP
 
-**Cybersecurity Advisor in Bowie, Maryland | Founder and Principal Consultant at NexSecure Solutions LLC**
+**Cybersecurity Advisor | Founder and Principal Consultant at NexSecure Solutions LLC**
+
+Based in Bowie, Maryland, helping businesses and nonprofits across Maryland, Washington, DC, and Virginia, with remote services for clients nationwide.
 
 I publish practical resources for small businesses and nonprofits working through Microsoft 365 security, cloud access and cybersecurity ownership. My commercial work is delivered through [NexSecure Solutions](https://nexsecuresolutions.com/). My educational writing is collected at [Nigel Roberts Advisory](https://nigelrobertsadvisory.com/).
 
@@ -65,7 +67,7 @@ My work focuses on practical cybersecurity strategy, vulnerability management, v
 
 ## NexSecure Solutions
 
-NexSecure Solutions LLC is a Maryland-based cybersecurity advisory and consulting firm serving small businesses, growing organizations, nonprofits, government contractors and SaaS companies.
+NexSecure Solutions LLC is a Maryland-based, cybersecurity-first managed services company for small businesses and nonprofits. We help manage Microsoft 365, cloud access, cybersecurity and essential IT operations under an agreed scope.
 
 - [NexSecure Solutions Website](https://nexsecuresolutions.com/)
 - [NexSecure Solutions on LinkedIn](https://www.linkedin.com/company/nexsecuresolutions)
